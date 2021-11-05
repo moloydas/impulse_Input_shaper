@@ -1,2 +1,4 @@
 # 4 impulse_Input_shaper
 Precise and fast position control is needed in many areas of industries but generally that demands  high rigid from system. This rigidity comes at a cost of payload capacity. In this project, Input shaping is used to suppress the vibration in a flexible beam that is being rotated by a stepper motor. Using method will allow designers to reduce the robot weight while maintaining accuracy and performance (for ex. topologically optimized parts for robotic arm). This method is also very useful for applications with very low friction or damping coefficients, for ex in cranes, space applications. 
+
+[![Input Shaping](http://singhose.marc.gatech.edu/cranewebpage/images/shaping_algorithm_large.gif)](https://drive.google.com/file/d/1MfnqGqEh0KUloIUYgsPip1--dtezZTsS/view?usp=sharing)
